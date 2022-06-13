@@ -1,4 +1,4 @@
 # Dio-Desafio-GitHub-Primeiro-Repositorio
-Desafio de projeto sobre Git/GitHub
+Repositorio Criado para o desafio de projeto
 ## Links Uteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
